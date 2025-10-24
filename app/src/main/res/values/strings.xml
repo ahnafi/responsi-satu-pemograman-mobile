@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Responsi 1 Mobile H1D023026</string>
+    <string name="about">TSG 1899 Hoffenheim adalah klub sepak bola Jerman dari desa kecil Sinsheim yang melejit ke Bundesliga pada tahun 2008 berkat dukungan finansial dari Dietmar Hopp. Klub ini terkenal karena fokusnya pada pengembangan bakat muda dan gaya bermain yang inovatif dan menyerang.</string>
+    <string name="team_name">TSG 1899 Hoffenheim</string>
+    <string name="placeholder">TSG 1899 Hoffenheim</string>
+    <string name="history">Club History</string>
+    <string name="coach">Head Coach</string>
+    <string name="player">Team Squad</string>
+    <string name="history_desc_1">TSG 1899 Hoffenheim, dengan nama lengkap Turn- und Sportgemeinschaft 1899 Hoffenheim e.V., adalah klub sepak bola profesional Jerman yang didirikan pada tahun 1899 dan dibentuk dalam wujud modern pada tahun 1945. Klub ini terkenal karena kebangkitannya yang sangat cepat dari divisi amatir ke kasta teratas liga Jerman. Kenaikan pesat ini dimungkinkan berkat dukungan finansial yang besar dari alumni dan konglomerat perangkat lunak, Dietmar Hopp. Berkat investasinya, klub yang masih berada di divisi lima pada tahun 2000 ini, berhasil menembus Bundesliga, liga utama Jerman, pada tahun 2008. Sejak 2009, mereka memainkan pertandingan kandang di PreZero Arena (sebelumnya Rhein-Neckar-Arena).</string>
+    <string name="history_desc_2">Pencapaian di Bundesliga dan Kompetisi Eropa
+
+Sejak promosi, Hoffenheim telah membangun reputasi sebagai klub Bundesliga yang kompetitif, meskipun belum pernah memenangkan trofi utama. Pencapaian terbaik mereka di liga adalah finis di posisi ke-3 pada musim 2017–18, yang secara otomatis meloloskan mereka ke babak grup Liga Champions UEFA. Mereka juga pernah lolos ke kompetisi Eropa lainnya, termasuk Liga Europa. Di bawah asuhan pelatih seperti Ralf Rangnick dan Julian Nagelsmann, Hoffenheim menunjukkan kemampuan untuk bersaing, meskipun pengalaman pertama mereka di Liga Champions 2017–18 berakhir di babak play-off dan fase grup (pada 2018–19).</string>
+    <string name="history_desc_3">Pemain Kunci dan Rekor Klub
+
+Sejumlah pemain kunci telah berkontribusi besar dalam sejarah klub. Striker Kroasia, Andrej Kramarić, memegang rekor sebagai pencetak gol terbanyak klub sepanjang masa dengan 143 gol. Sementara itu, penjaga gawang Oliver Baumann adalah pemegang rekor penampilan terbanyak dengan 363 pertandingan. Pemain penting lain yang pernah membela klub termasuk Vedad Ibišević, Sejad Salihović, dan Roberto Firmino, yang memenangkan penghargaan Bundesliga Breakthrough Player of the Season pada 2013–14.</string>
+    <string name="history_desc_4">Kontroversi dan Kritik
+
+Kebangkitan Hoffenheim dengan dukungan finansial Hopp tidak luput dari kritik keras, terutama dari penggemar klub-klub tradisional lain di Jerman. Poin utama kritik adalah bahwa klub ini dianggap "kurang memiliki tradisi" dan basis penggemar historis yang besar, mengingat klub ini berasal dari desa kecil berpenduduk hanya 3.300 jiwa. Klub ini sering dibandingkan dengan tim lain yang juga mendapat suntikan dana besar, seperti VfL Wolfsburg dan RB Leipzig. Kritik ini bahkan memuncak dalam insiden-insiden di stadion pada tahun 2020, ketika spanduk-spanduk ofensif yang ditujukan kepada Dietmar Hopp menyebabkan pertandingan dihentikan sementara.</string>
+    <string name="history_desc_5">Kerjasama Strategis
+
+Selain bersaing di level domestik dan Eropa, TSG 1899 Hoffenheim juga aktif dalam membangun kemitraan internasional. Klub ini memiliki perjanjian kemitraan strategis dengan klub MLS FC Cincinnati dan klub Liga Utama Ghana, Accra Hearts Of Oak. Selain itu, pada Maret 2025, klub tersebut menjalin aliansi dengan klub I-League India, Rajasthan United, menunjukkan fokus mereka pada pengembangan global dan perluasan jangkauan merek.</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
